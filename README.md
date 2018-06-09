@@ -1,1 +1,1 @@
-# Webpack, TypeScript, Pixi.js Sarter
+# Webpack, TypeScript, Pixi.js Starter
